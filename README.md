@@ -33,7 +33,7 @@ size (x * y * z)
 
 📊 Screenshot / Output Example
 
-![App Screenshot](./Screenshot/Output.png)
+![App Screenshot](./Output.png)
 
 
 🧑‍💻 Author
