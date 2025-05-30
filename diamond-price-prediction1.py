@@ -1,4 +1,4 @@
-import streamlit as st  # type: ignore # streamlit run diamond-price-prediction1.py
+import streamlit as st   # type: ignore # streamlit run diamond-price-prediction1.py
 import pandas as pd
 import numpy as np
 import plotly.express as px
