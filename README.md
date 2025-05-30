@@ -33,7 +33,8 @@ size (x * y * z)
 
 📊 Screenshot / Output Example
 
-![App Screenshot](./Screenshort/Output.png)
+![App Screenshot](./Screenshot/Output.png)
+
 
 🧑‍💻 Author
 Anubhav Choudhary
