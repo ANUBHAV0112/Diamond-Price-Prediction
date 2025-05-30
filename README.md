@@ -32,11 +32,7 @@ clarity (mapped to numerical values)
 size (x * y * z)
 
 📊 Screenshot / Output Example
-You mentioned you have an output screenshot. You can include it like this:
 
-markdown
-Copy
-Edit
 ![App Screenshot](./Screenshort/Output.png)
 
 🧑‍💻 Author
